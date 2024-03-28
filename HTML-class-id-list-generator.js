@@ -1,5 +1,5 @@
 
-// Script by Mike Rainey 
+// Script by Mike Rainey https://github.com/mycranium
 // Include this script in your page to generate a list of all elements
 // and their ids and classes for elements that have either attribute.
 //
